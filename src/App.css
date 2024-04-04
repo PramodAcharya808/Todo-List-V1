@@ -1,0 +1,19 @@
+h1 {
+  font-family: sans-serif;
+  text-align: center;
+  font-weight: 900;
+}
+
+input {
+  width: 80%;
+}
+
+button {
+  width: 40%;
+}
+
+.container {
+  background-color: rgb(165, 165, 165);
+  padding: 50px;
+  border-radius: 50px;
+}
